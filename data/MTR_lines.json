@@ -1,0 +1,50 @@
+{
+    "AEL": {
+        "eng": "Airport Express",
+        "chi": "機場快線",
+        "stations": ["HOK", "KOW", "TSY", "AIR", "AWE"]
+    },
+    "TCL": {
+        "eng": "Tung Chung Line",
+        "chi": "東涌綫",
+        "stations": ["HOK", "KOW", "OLY", "NAC", "LAK", "TSY", "SUN", "TUC"]
+    },
+    "WRL": {
+        "eng": "West Rail Line",
+        "chi": "西鐵綫",
+        "stations": [
+            "WKS",
+            "MOS",
+            "HEO",
+            "TSH",
+            "SHM",
+            "CIO",
+            "STW",
+            "CKT",
+            "TAW",
+            "HIK",
+            "DIH",
+            "KAT",
+            "SUW",
+            "TKW",
+            "HOM",
+            "HUH",
+            "ETS",
+            "AUS",
+            "NAC",
+            "MEF",
+            "TWW",
+            "KSR",
+            "YUL",
+            "LOP",
+            "TIS",
+            "SIH",
+            "TUM"
+        ]
+    },
+    "TKL": {
+        "eng": "Tseung Kwan O Line",
+        "chi": "將軍澳線",
+        "stations": ["NOP", "QUB", "YAT", "TIK", "TKO", "LHP", "HAH", "POA"]
+    }
+}
